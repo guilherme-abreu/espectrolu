@@ -23,12 +23,6 @@ body {
     text-align: left;
 }
 
-.conteudo-cabecalho h1 {
-    color: #ffdb00;
-    font-size: 140pt;
-    padding-top: 100px;
-}
-
 .home {
     height: 1000px;
     animation-name: mudarbg;
@@ -51,19 +45,7 @@ body {
     }
 }
 
-.conteudo-cabecalho p {
-    color: white;
-}
 
-.painel-background {
-    width: 100%;
-    height: 920px;
-    background-color: #17191e;
-}
-
-.texto-paragrafo {
-    width: 70%;
-}
 
 .botao1 {
     width: 230px;
@@ -192,6 +174,34 @@ body {
     height: 2.5em;
     font-size: 0.8em;
     font-weight: bolder;
+}
+
+.conteudo-cabecalho h1 {
+    color: #ffdb00;
+    font-size: 4em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+
+.conteudo-cabecalho p {
+    color: white;
+}
+
+.painel-background {
+    width: 100%;
+    height: 30em;
+    background-color: #17191e;
+}
+
+.texto-paragrafo {
+    width: 70%;
+    font-size: 13pt;
+    text-align: justify;
+}
+
+.navbar-brand img {
+    width: 5em;
+    border-style: none;
 }
 
 @media (min-width: 576px) {

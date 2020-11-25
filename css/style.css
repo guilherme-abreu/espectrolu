@@ -150,3 +150,46 @@ body {
     margin-top: 42px;
     margin-bottom: 42px;
 }
+
+
+.rodape {
+    height: 10em;
+    
+}
+
+.icone {
+    color: rgb(37, 15, 164);
+    padding: 1em;
+}
+
+.copyright {
+    color: rgb(37, 15, 164);
+}
+
+.cor-cinza {
+    background-color: rgb(226, 226, 226);
+}
+
+.newsletter {
+    background-color: #17191e;
+    height: 18em;
+}
+
+.newsletter h1 {
+    color: white;
+    padding-bottom: 0.8em;
+}
+
+.newsletter {
+    margin-top: 1em;
+}
+
+.botao-marque {
+    color: white;
+    border: 2px solid white;
+    width: 20%;
+    border-radius: 50px;
+    height: 2.5em;
+    font-size: 2em;
+    font-weight: bolder;
+}

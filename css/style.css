@@ -28,7 +28,7 @@ body {
     animation-name: mudarbg;
     animation-duration: 20s;
     animation-iteration-count: infinite;
-    background-image: url('../img/IMG_20200624_201917_689.jpg');
+    background-image: url('../img/3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -37,11 +37,14 @@ body {
 /*HOME ANIMATION*/
 
 @keyframes mudarbg {
-    33.33% {
-        background-image: url('../img/IMG_20200625_182807_282.jpg');
+    25% {
+        background-image: url('../img/imagem8.jpg');
     }
-    66.66% {
-        background-image: url('../img/IMG_20200625_182821_712.jpg');
+    50% {
+        background-image: url('../img/2.png');
+    }
+    75% {
+        background-image: url('../img/imagem6.jpg');
     }
 }
 
@@ -136,7 +139,6 @@ body {
 
 .rodape {
     height: 10em;
-    
 }
 
 .icone {
@@ -206,8 +208,9 @@ body {
 
 @media (min-width: 576px) {
     .botao-marque {
-        font-size: 0.8em;
+        font-size: 1em;
         width: 40%;
+        height: 2.7em;
     }
 }
 

@@ -180,9 +180,10 @@ body {
 
 .conteudo-cabecalho h1 {
     color: #ffdb00;
-    font-size: 4em;
+    font-size: 5.8em;
     padding-top: 0.1em;
     padding-bottom: 0.1em;
+    text-align: center;
 }
 
 .conteudo-cabecalho p {

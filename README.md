@@ -1,2 +1,2 @@
 # espectrolu
- Repositório do site EspectroLu
+ Repositório do site EspectroLu Fotografias
